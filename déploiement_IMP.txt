@@ -2,3 +2,4 @@ Brancher l'imprimante
 donné le N du port réseau au tech
 changement le VLAN par le Tech
 associer les PCs a l'imprimante
+test imp
